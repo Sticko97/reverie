@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: Introducing Reverie - A ridiculously elegant Jekyll theme Stanley Le 
 categories: [Miscellaneous, Jekyll]
 ---
 
